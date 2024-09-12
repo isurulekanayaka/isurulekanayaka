@@ -67,4 +67,4 @@
 
 ### 📈 Contribution Activity
 
-[![Isuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isurulekanayaka&theme=high-contrast)](https://github.com/isurulekanayaka)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
