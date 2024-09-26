@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=isurulekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="isurulekanayaka" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px">
 
 - 🔭 I’m currently working on **Fullstack Development**
 
